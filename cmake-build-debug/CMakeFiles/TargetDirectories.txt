@@ -1,0 +1,11 @@
+C:/ti-software/WiFi/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOADFS.dir
+C:/ti-software/WiFi/cmake-build-debug/CMakeFiles/PLATFORMIO_BUILD.dir
+C:/ti-software/WiFi/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOAD.dir
+C:/ti-software/WiFi/cmake-build-debug/CMakeFiles/PLATFORMIO_CLEAN.dir
+C:/ti-software/WiFi/cmake-build-debug/CMakeFiles/PLATFORMIO_REBUILD_PROJECT_INDEX.dir
+C:/ti-software/WiFi/cmake-build-debug/CMakeFiles/PLATFORMIO_TEST.dir
+C:/ti-software/WiFi/cmake-build-debug/CMakeFiles/PLATFORMIO_PROGRAM.dir
+C:/ti-software/WiFi/cmake-build-debug/CMakeFiles/PLATFORMIO_UPDATE_ALL.dir
+C:/ti-software/WiFi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/ti-software/WiFi/cmake-build-debug/CMakeFiles/WiFi.dir
+C:/ti-software/WiFi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
