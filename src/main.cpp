@@ -141,7 +141,7 @@ void loop() {
 			u8g2.clearBuffer();
 			u8g2.drawStr(0,30, incomingWifi.c_str());
 			u8g2.sendBuffer();
-			Serial.println(incomingWifi.c_str());
+			//Serial.println(incomingWifi.c_str());
 			IN = msg(incomingWifi);
 			incomingWifi = "";
 		}
