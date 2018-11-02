@@ -119,6 +119,11 @@
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/cores/esp8266"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/tools/sdk/lwip/include"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/variants/nodemcu"/>
+					<Add directory="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src"/>
+					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFi/src"/>
+					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/SPI"/>
+					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/SoftwareSerial"/>
+					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/Wire"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/ArduinoOTA"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/DNSServer/src"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/EEPROM"/>
@@ -129,7 +134,6 @@
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266NetBIOS"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266SSDP"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WebServer/src"/>
-					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFi/src"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFiMesh/src"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266httpUpdate/src"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266mDNS"/>
@@ -137,13 +141,10 @@
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/GDBStub/src"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/Hash/src"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/SD/src"/>
-					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/SPI"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/SPISlave/src"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/Servo/src"/>
-					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/SoftwareSerial"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/TFT_Touch_Shield_V2"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/Ticker"/>
-					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/Wire"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/esp8266/src"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/toolchain-xtensa/xtensa-lx106-elf/include"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/toolchain-xtensa/xtensa-lx106-elf/include/c++/4.8.2"/>
@@ -177,6 +178,11 @@
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/cores/esp8266"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/tools/sdk/lwip/include"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/variants/nodemcu"/>
+					<Add directory="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src"/>
+					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFi/src"/>
+					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/SPI"/>
+					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/SoftwareSerial"/>
+					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/Wire"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/ArduinoOTA"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/DNSServer/src"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/EEPROM"/>
@@ -187,7 +193,6 @@
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266NetBIOS"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266SSDP"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WebServer/src"/>
-					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFi/src"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFiMesh/src"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266httpUpdate/src"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266mDNS"/>
@@ -195,13 +200,10 @@
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/GDBStub/src"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/Hash/src"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/SD/src"/>
-					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/SPI"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/SPISlave/src"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/Servo/src"/>
-					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/SoftwareSerial"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/TFT_Touch_Shield_V2"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/Ticker"/>
-					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/Wire"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/framework-arduinoespressif8266/libraries/esp8266/src"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/toolchain-xtensa/xtensa-lx106-elf/include"/>
 					<Add directory="C:/Users/djrel/.platformio/packages/toolchain-xtensa/xtensa-lx106-elf/include/c++/4.8.2"/>
@@ -234,6 +236,435 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/.library.json">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/README.md">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/full_buffer/FPS/FPS.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/full_buffer/FontUsage/FontUsage.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/full_buffer/GraphicsTest/GraphicsTest.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/full_buffer/HelloWorld/HelloWorld.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/full_buffer/IconMenu/IconMenu.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/full_buffer/PrintUTF8/PrintUTF8.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/full_buffer/SelectionList/SelectionList.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/full_buffer/Shennong/Shennong.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/full_buffer/U8g2Logo/U8g2Logo.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/full_buffer/Weather/Weather.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/games/LittleRookChess/LittleRookChess.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/games/SpaceTrash/SpaceTrash.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/page_buffer/A2Printer/A2Printer.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/page_buffer/Chinese/Chinese.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/page_buffer/ClipWindow/ClipWindow.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/page_buffer/Clock/Clock.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/page_buffer/ContrastTest/ContrastTest.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/page_buffer/DirectAccess/DirectAccess.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/page_buffer/DrawLog/DrawLog.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/page_buffer/ExtUTF8/ExtUTF8.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/page_buffer/FPS/FPS.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/page_buffer/FlipMode/FlipMode.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/page_buffer/GraphicsTest/GraphicsTest.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/page_buffer/HelloWorld/HelloWorld.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/page_buffer/IconMenu/IconMenu.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/page_buffer/Japanese/Japanese.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/page_buffer/Korean/Korean.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/page_buffer/PowerSaveTest/PowerSaveTest.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/page_buffer/PrintHelloWorld/PrintHelloWorld.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/page_buffer/PrintProgmem/PrintProgmem.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/page_buffer/PrintUTF8/PrintUTF8.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/page_buffer/ScrollingText/ScrollingText.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/page_buffer/SelectionList/SelectionList.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/page_buffer/Serial/Serial.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/page_buffer/Shennong/Shennong.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/page_buffer/StateBufferLoop/StateBufferLoop.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/page_buffer/Terminal/Terminal.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/page_buffer/U8g2Logo/U8g2Logo.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/page_buffer/Weather/Weather.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/page_buffer/XBM/XBM.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/page_buffer/XORTest/XORTest.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/u8x8/ArduboyTest/ArduboyTest.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/u8x8/FlipMode/FlipMode.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/u8x8/GraphicsTest/GraphicsTest.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/u8x8/HelloWorld/HelloWorld.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/u8x8/MessageBox/MessageBox.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/examples/u8x8/Terminal/Terminal.ino">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/keywords.txt">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/library.properties">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/U8g2lib.h">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/U8x8lib.cpp">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/U8x8lib.h">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8g2.h">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8g2_bitmap.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8g2_box.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8g2_buffer.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8g2_circle.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8g2_cleardisplay.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8g2_d_memory.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8g2_d_setup.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8g2_font.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8g2_fonts.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8g2_hvline.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8g2_input_value.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8g2_intersection.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8g2_kerning.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8g2_line.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8g2_ll_hvline.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8g2_message.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8g2_polygon.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8g2_selection_list.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8g2_setup.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8log.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8log_u8g2.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8log_u8x8.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8.h">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_8x8.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_byte.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_cad.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_a2printer.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_il3820_296x128.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ist3020.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ks0108.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_lc7981.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ld7032_60x32.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ls013b7dh03.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_max7219.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcd8544_84x48.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8812.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8814_hx1230.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sbn1661.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sed1330.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_64x32.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_72x40.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1107.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1108.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1122.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1305.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x32.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x64_noname.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_48x64.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x32.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x48.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_96x16.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1309.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1317.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1322.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1325.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1326.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1327.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1329.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1606_172x72.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1607_200x200.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st75256.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7565.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7567.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_erc240160.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_s028hn118a.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7588.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7920.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_t6963.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1601.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1604.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1608.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1610.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1611.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1617.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1638.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_dogs102.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_mini12864.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_debounce.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_display.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_fonts.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_gpio.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_input_value.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_message.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_selection_list.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_setup.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_string.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_u16toa.c">
+			<Option target="WiFi"/>
+		</Unit>
+		<Unit filename="C:/ti-software/WiFi/.piolibdeps/U8g2_ID942/src/clib/u8x8_u8toa.c">
+			<Option target="WiFi"/>
+		</Unit>
 		<Unit filename="C:/ti-software/WiFi/lib/readme.txt">
 			<Option target="WiFi"/>
 		</Unit>

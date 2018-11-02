@@ -56,10 +56,1242 @@ include CMakeFiles/WiFi.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/WiFi.dir/flags.make
 
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/U8x8lib.cpp.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/U8x8lib.cpp.obj: CMakeFiles/WiFi.dir/includes_CXX.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/U8x8lib.cpp.obj: ../.piolibdeps/U8g2_ID942/src/U8x8lib.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/U8x8lib.cpp.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\U8x8lib.cpp.obj -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\U8x8lib.cpp
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/U8x8lib.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/U8x8lib.cpp.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\U8x8lib.cpp > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\U8x8lib.cpp.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/U8x8lib.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/U8x8lib.cpp.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\U8x8lib.cpp -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\U8x8lib.cpp.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_bitmap.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_bitmap.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_bitmap.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8g2_bitmap.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_bitmap.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_bitmap.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_bitmap.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_bitmap.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_bitmap.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_bitmap.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_bitmap.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_bitmap.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_bitmap.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_bitmap.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_bitmap.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_box.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_box.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_box.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8g2_box.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_box.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_box.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_box.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_box.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_box.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_box.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_box.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_box.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_box.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_box.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_box.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_buffer.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_buffer.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_buffer.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8g2_buffer.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_buffer.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_buffer.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_buffer.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_buffer.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_buffer.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_buffer.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_buffer.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_buffer.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_buffer.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_buffer.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_buffer.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_circle.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_circle.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_circle.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8g2_circle.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_circle.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_circle.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_circle.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_circle.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_circle.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_circle.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_circle.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_circle.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_circle.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_circle.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_circle.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_cleardisplay.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_cleardisplay.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_cleardisplay.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8g2_cleardisplay.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_cleardisplay.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_cleardisplay.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_cleardisplay.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_cleardisplay.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_cleardisplay.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_cleardisplay.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_cleardisplay.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_cleardisplay.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_cleardisplay.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_cleardisplay.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_cleardisplay.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_d_memory.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_d_memory.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_d_memory.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8g2_d_memory.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_d_memory.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_d_memory.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_d_memory.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_d_memory.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_d_memory.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_d_memory.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_d_memory.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_d_memory.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_d_memory.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_d_memory.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_d_memory.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_d_setup.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_d_setup.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_d_setup.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8g2_d_setup.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_d_setup.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_d_setup.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_d_setup.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_d_setup.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_d_setup.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_d_setup.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_d_setup.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_d_setup.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_d_setup.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_d_setup.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_d_setup.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_font.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_font.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_font.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8g2_font.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_font.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_font.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_font.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_font.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_font.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_font.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_font.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_font.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_font.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_font.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_font.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_fonts.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_fonts.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_fonts.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8g2_fonts.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_fonts.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_fonts.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_fonts.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_fonts.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_fonts.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_fonts.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_fonts.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_fonts.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_fonts.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_fonts.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_fonts.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_hvline.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_hvline.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_hvline.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8g2_hvline.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_hvline.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_hvline.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_hvline.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_hvline.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_hvline.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_hvline.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_hvline.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_hvline.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_hvline.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_hvline.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_hvline.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_input_value.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_input_value.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_input_value.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8g2_input_value.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_input_value.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_input_value.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_input_value.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_input_value.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_input_value.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_input_value.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_input_value.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_input_value.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_input_value.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_input_value.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_input_value.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_intersection.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_intersection.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_intersection.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8g2_intersection.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_intersection.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_intersection.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_intersection.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_intersection.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_intersection.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_intersection.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_intersection.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_intersection.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_intersection.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_intersection.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_intersection.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_kerning.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_kerning.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_kerning.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8g2_kerning.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_kerning.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_kerning.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_kerning.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_kerning.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_kerning.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_kerning.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_kerning.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_kerning.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_kerning.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_kerning.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_kerning.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_line.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_line.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_line.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8g2_line.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_line.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_line.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_line.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_line.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_line.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_line.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_line.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_line.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_line.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_line.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_line.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_ll_hvline.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_ll_hvline.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_ll_hvline.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8g2_ll_hvline.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_ll_hvline.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_ll_hvline.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_ll_hvline.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_ll_hvline.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_ll_hvline.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_ll_hvline.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_ll_hvline.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_ll_hvline.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_ll_hvline.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_ll_hvline.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_ll_hvline.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_message.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_message.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_message.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8g2_message.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_message.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_message.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_message.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_message.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_message.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_message.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_message.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_message.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_message.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_message.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_message.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_polygon.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_polygon.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_polygon.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8g2_polygon.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_polygon.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_polygon.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_polygon.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_polygon.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_polygon.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_polygon.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_polygon.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_polygon.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_polygon.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_polygon.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_polygon.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_selection_list.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_selection_list.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_selection_list.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8g2_selection_list.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_selection_list.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_selection_list.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_selection_list.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_selection_list.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_selection_list.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_selection_list.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_selection_list.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_selection_list.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_selection_list.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_selection_list.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_selection_list.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_setup.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_setup.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_setup.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8g2_setup.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_setup.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_setup.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_setup.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_setup.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_setup.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_setup.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_setup.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_setup.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_setup.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8g2_setup.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8g2_setup.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8log.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8log.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8log.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8log.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8log.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8log.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8log.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log_u8g2.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log_u8g2.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log_u8g2.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8log_u8g2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log_u8g2.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8log_u8g2.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8log_u8g2.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log_u8g2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log_u8g2.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8log_u8g2.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8log_u8g2.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log_u8g2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log_u8g2.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8log_u8g2.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8log_u8g2.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log_u8x8.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log_u8x8.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log_u8x8.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8log_u8x8.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log_u8x8.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8log_u8x8.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8log_u8x8.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log_u8x8.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log_u8x8.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8log_u8x8.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8log_u8x8.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log_u8x8.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log_u8x8.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8log_u8x8.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8log_u8x8.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_8x8.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_8x8.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_8x8.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_8x8.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_8x8.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_8x8.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_8x8.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_8x8.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_8x8.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_8x8.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_8x8.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_8x8.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_8x8.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_8x8.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_8x8.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_byte.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_byte.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_byte.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_byte.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_byte.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_byte.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_byte.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_byte.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_byte.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_byte.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_byte.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_byte.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_byte.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_byte.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_byte.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_cad.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_cad.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_cad.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_cad.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_cad.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_cad.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_cad.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_cad.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_cad.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_cad.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_cad.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_cad.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_cad.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_cad.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_cad.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_a2printer.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_a2printer.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_a2printer.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_a2printer.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_a2printer.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_a2printer.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_a2printer.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_a2printer.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_a2printer.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_a2printer.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_a2printer.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_a2printer.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_a2printer.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_a2printer.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_a2printer.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_il3820_296x128.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_il3820_296x128.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_il3820_296x128.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_il3820_296x128.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_il3820_296x128.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_il3820_296x128.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_il3820_296x128.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_il3820_296x128.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_il3820_296x128.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_il3820_296x128.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_il3820_296x128.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_il3820_296x128.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_il3820_296x128.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_il3820_296x128.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_il3820_296x128.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ist3020.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ist3020.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ist3020.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ist3020.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ist3020.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ist3020.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ist3020.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ist3020.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ist3020.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ist3020.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ist3020.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ist3020.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ist3020.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ist3020.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ist3020.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ks0108.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ks0108.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ks0108.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ks0108.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ks0108.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ks0108.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ks0108.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ks0108.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ks0108.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ks0108.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ks0108.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ks0108.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ks0108.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ks0108.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ks0108.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_lc7981.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_lc7981.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_lc7981.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_lc7981.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_lc7981.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_lc7981.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_lc7981.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_lc7981.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_lc7981.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_lc7981.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_lc7981.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_lc7981.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_lc7981.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_lc7981.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_lc7981.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ld7032_60x32.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ld7032_60x32.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ld7032_60x32.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ld7032_60x32.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ld7032_60x32.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ld7032_60x32.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ld7032_60x32.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ld7032_60x32.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ld7032_60x32.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ld7032_60x32.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ld7032_60x32.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ld7032_60x32.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ld7032_60x32.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ld7032_60x32.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ld7032_60x32.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ls013b7dh03.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ls013b7dh03.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ls013b7dh03.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ls013b7dh03.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ls013b7dh03.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ls013b7dh03.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ls013b7dh03.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ls013b7dh03.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ls013b7dh03.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ls013b7dh03.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ls013b7dh03.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ls013b7dh03.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ls013b7dh03.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ls013b7dh03.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ls013b7dh03.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_max7219.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_max7219.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_max7219.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_max7219.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_max7219.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_max7219.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_max7219.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_max7219.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_max7219.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_max7219.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_max7219.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_max7219.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_max7219.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_max7219.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_max7219.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcd8544_84x48.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcd8544_84x48.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcd8544_84x48.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcd8544_84x48.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcd8544_84x48.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_pcd8544_84x48.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_pcd8544_84x48.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcd8544_84x48.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcd8544_84x48.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_pcd8544_84x48.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_pcd8544_84x48.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcd8544_84x48.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcd8544_84x48.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_pcd8544_84x48.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_pcd8544_84x48.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8812.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8812.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8812.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8812.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8812.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_pcf8812.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_pcf8812.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8812.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8812.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_pcf8812.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_pcf8812.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8812.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8812.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_pcf8812.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_pcf8812.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8814_hx1230.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8814_hx1230.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8814_hx1230.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8814_hx1230.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8814_hx1230.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_pcf8814_hx1230.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_pcf8814_hx1230.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8814_hx1230.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8814_hx1230.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_pcf8814_hx1230.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_pcf8814_hx1230.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8814_hx1230.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8814_hx1230.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_pcf8814_hx1230.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_pcf8814_hx1230.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sbn1661.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sbn1661.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sbn1661.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sbn1661.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sbn1661.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sbn1661.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sbn1661.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sbn1661.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sbn1661.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sbn1661.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sbn1661.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sbn1661.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sbn1661.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sbn1661.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sbn1661.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sed1330.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sed1330.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sed1330.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sed1330.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sed1330.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sed1330.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sed1330.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sed1330.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sed1330.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sed1330.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sed1330.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sed1330.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sed1330.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sed1330.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sed1330.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_64x32.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_64x32.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_64x32.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_64x32.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_64x32.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sh1106_64x32.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sh1106_64x32.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_64x32.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_64x32.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sh1106_64x32.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sh1106_64x32.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_64x32.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_64x32.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sh1106_64x32.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sh1106_64x32.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_72x40.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_72x40.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_72x40.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_72x40.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_72x40.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sh1106_72x40.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sh1106_72x40.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_72x40.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_72x40.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sh1106_72x40.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sh1106_72x40.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_72x40.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_72x40.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sh1106_72x40.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sh1106_72x40.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1107.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1107.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1107.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1107.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1107.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sh1107.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sh1107.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1107.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1107.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sh1107.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sh1107.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1107.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1107.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sh1107.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sh1107.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1108.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1108.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1108.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1108.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1108.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sh1108.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sh1108.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1108.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1108.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sh1108.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sh1108.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1108.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1108.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sh1108.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sh1108.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1122.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1122.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1122.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1122.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1122.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sh1122.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sh1122.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1122.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1122.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sh1122.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sh1122.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1122.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1122.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sh1122.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_sh1122.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1305.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1305.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1305.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1305.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1305.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1305.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1305.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1305.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1305.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1305.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1305.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1305.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1305.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1305.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1305.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x32.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x32.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x32.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x32.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x32.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1306_128x32.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1306_128x32.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x32.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x32.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1306_128x32.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1306_128x32.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x32.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x32.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1306_128x32.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1306_128x32.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x64_noname.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x64_noname.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x64_noname.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x64_noname.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x64_noname.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1306_128x64_noname.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1306_128x64_noname.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x64_noname.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x64_noname.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1306_128x64_noname.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1306_128x64_noname.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x64_noname.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x64_noname.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1306_128x64_noname.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1306_128x64_noname.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_48x64.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_48x64.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_48x64.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_48x64.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_48x64.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1306_48x64.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1306_48x64.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_48x64.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_48x64.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1306_48x64.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1306_48x64.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_48x64.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_48x64.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1306_48x64.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1306_48x64.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x32.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x32.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x32.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x32.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x32.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1306_64x32.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1306_64x32.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x32.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x32.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1306_64x32.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1306_64x32.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x32.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x32.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1306_64x32.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1306_64x32.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x48.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x48.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x48.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x48.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x48.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1306_64x48.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1306_64x48.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x48.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x48.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1306_64x48.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1306_64x48.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x48.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x48.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1306_64x48.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1306_64x48.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_96x16.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_96x16.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_96x16.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_96x16.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_96x16.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1306_96x16.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1306_96x16.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_96x16.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_96x16.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1306_96x16.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1306_96x16.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_96x16.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_96x16.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1306_96x16.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1306_96x16.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1309.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1309.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1309.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1309.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1309.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1309.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1309.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1309.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1309.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1309.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1309.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1309.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1309.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1309.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1309.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1317.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1317.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1317.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1317.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1317.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1317.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1317.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1317.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1317.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1317.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1317.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1317.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1317.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1317.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1317.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1322.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1322.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1322.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1322.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1322.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1322.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1322.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1322.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1322.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1322.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1322.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1322.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1322.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1322.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1322.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1325.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1325.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1325.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1325.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1325.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1325.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1325.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1325.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1325.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1325.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1325.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1325.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1325.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1325.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1325.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1326.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1326.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1326.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1326.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1326.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1326.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1326.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1326.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1326.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1326.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1326.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1326.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1326.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1326.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1326.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1327.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1327.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1327.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1327.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1327.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1327.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1327.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1327.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1327.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1327.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1327.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1327.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1327.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1327.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1327.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1329.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1329.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1329.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1329.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1329.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1329.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1329.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1329.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1329.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1329.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1329.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1329.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1329.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1329.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1329.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1606_172x72.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1606_172x72.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1606_172x72.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1606_172x72.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1606_172x72.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1606_172x72.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1606_172x72.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1606_172x72.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1606_172x72.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1606_172x72.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1606_172x72.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1606_172x72.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1606_172x72.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1606_172x72.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1606_172x72.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1607_200x200.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1607_200x200.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1607_200x200.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1607_200x200.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1607_200x200.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1607_200x200.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1607_200x200.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1607_200x200.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1607_200x200.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1607_200x200.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1607_200x200.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1607_200x200.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1607_200x200.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1607_200x200.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_ssd1607_200x200.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st75256.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st75256.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st75256.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st75256.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st75256.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st75256.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st75256.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st75256.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st75256.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st75256.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st75256.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st75256.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st75256.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st75256.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st75256.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7565.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7565.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7565.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7565.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7565.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st7565.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st7565.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7565.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7565.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st7565.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st7565.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7565.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7565.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st7565.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st7565.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7567.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7567.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7567.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7567.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7567.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st7567.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st7567.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7567.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7567.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st7567.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st7567.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7567.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7567.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st7567.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st7567.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_erc240160.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_erc240160.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_erc240160.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_erc240160.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_erc240160.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st7586s_erc240160.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st7586s_erc240160.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_erc240160.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_erc240160.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st7586s_erc240160.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st7586s_erc240160.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_erc240160.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_erc240160.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st7586s_erc240160.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st7586s_erc240160.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_s028hn118a.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_s028hn118a.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_s028hn118a.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_s028hn118a.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_s028hn118a.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st7586s_s028hn118a.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st7586s_s028hn118a.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_s028hn118a.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_s028hn118a.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st7586s_s028hn118a.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st7586s_s028hn118a.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_s028hn118a.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_s028hn118a.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st7586s_s028hn118a.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st7586s_s028hn118a.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7588.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7588.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7588.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7588.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7588.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st7588.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st7588.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7588.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7588.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st7588.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st7588.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7588.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7588.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st7588.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st7588.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7920.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7920.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7920.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7920.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7920.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st7920.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st7920.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7920.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7920.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st7920.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st7920.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7920.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7920.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st7920.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_st7920.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_t6963.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_t6963.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_t6963.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_t6963.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_t6963.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_t6963.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_t6963.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_t6963.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_t6963.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_t6963.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_t6963.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_t6963.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_t6963.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_t6963.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_t6963.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1601.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1601.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1601.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1601.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1601.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1601.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1601.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1601.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1601.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1601.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1601.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1601.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1601.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1601.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1601.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1604.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1604.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1604.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1604.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1604.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1604.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1604.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1604.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1604.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1604.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1604.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1604.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1604.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1604.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1604.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1608.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1608.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1608.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1608.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1608.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1608.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1608.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1608.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1608.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1608.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1608.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1608.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1608.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1608.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1608.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1610.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1610.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1610.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1610.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1610.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1610.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1610.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1610.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1610.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1610.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1610.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1610.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1610.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1610.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1610.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1611.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1611.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1611.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1611.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1611.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1611.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1611.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1611.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1611.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1611.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1611.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1611.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1611.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1611.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1611.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1617.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1617.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1617.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1617.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1617.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1617.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1617.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1617.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1617.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1617.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1617.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1617.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1617.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1617.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1617.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1638.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1638.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1638.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1638.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1638.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1638.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1638.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1638.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1638.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1638.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1638.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1638.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1638.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1638.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1638.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_dogs102.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_dogs102.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_dogs102.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_dogs102.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_dogs102.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1701_dogs102.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1701_dogs102.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_dogs102.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_dogs102.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1701_dogs102.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1701_dogs102.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_dogs102.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_dogs102.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1701_dogs102.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1701_dogs102.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_mini12864.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_mini12864.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_mini12864.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_mini12864.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_mini12864.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1701_mini12864.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1701_mini12864.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_mini12864.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_mini12864.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1701_mini12864.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1701_mini12864.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_mini12864.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_mini12864.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1701_mini12864.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_d_uc1701_mini12864.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_debounce.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_debounce.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_debounce.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_debounce.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_debounce.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_debounce.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_debounce.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_debounce.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_debounce.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_debounce.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_debounce.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_debounce.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_debounce.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_debounce.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_debounce.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_display.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_display.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_display.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_display.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_display.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_display.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_display.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_display.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_display.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_display.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_display.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_display.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_display.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_display.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_display.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_fonts.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_fonts.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_fonts.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_fonts.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_fonts.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_fonts.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_fonts.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_fonts.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_fonts.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_fonts.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_fonts.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_fonts.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_fonts.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_fonts.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_fonts.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_gpio.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_gpio.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_gpio.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_gpio.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_gpio.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_gpio.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_gpio.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_gpio.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_gpio.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_gpio.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_gpio.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_gpio.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_gpio.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_gpio.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_gpio.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_input_value.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_input_value.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_input_value.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_input_value.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_input_value.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_input_value.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_input_value.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_input_value.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_input_value.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_input_value.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_input_value.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_input_value.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_input_value.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_input_value.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_input_value.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_message.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_message.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_message.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_message.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_message.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_message.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_message.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_message.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_message.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_message.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_message.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_message.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_message.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_message.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_message.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_selection_list.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_selection_list.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_selection_list.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_selection_list.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_selection_list.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_selection_list.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_selection_list.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_selection_list.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_selection_list.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_selection_list.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_selection_list.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_selection_list.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_selection_list.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_selection_list.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_selection_list.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_setup.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_setup.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_setup.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_setup.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_setup.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_setup.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_setup.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_setup.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_setup.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_setup.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_setup.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_setup.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_setup.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_setup.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_setup.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_string.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_string.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_string.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_string.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_string.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_string.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_string.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_string.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_string.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_string.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_string.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_string.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_string.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_string.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_string.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_u16toa.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_u16toa.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_u16toa.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_u16toa.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_u16toa.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_u16toa.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_u16toa.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_u16toa.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_u16toa.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_u16toa.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_u16toa.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_u16toa.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_u16toa.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_u16toa.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_u16toa.c.s
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_u8toa.c.obj: CMakeFiles/WiFi.dir/flags.make
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_u8toa.c.obj: CMakeFiles/WiFi.dir/includes_C.rsp
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_u8toa.c.obj: ../.piolibdeps/U8g2_ID942/src/clib/u8x8_u8toa.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Building C object CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_u8toa.c.obj"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_u8toa.c.obj   -c C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_u8toa.c
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_u8toa.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_u8toa.c.i"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_u8toa.c > CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_u8toa.c.i
+
+CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_u8toa.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_u8toa.c.s"
+	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\ti-software\WiFi\.piolibdeps\U8g2_ID942\src\clib\u8x8_u8toa.c -o CMakeFiles\WiFi.dir\.piolibdeps\U8g2_ID942\src\clib\u8x8_u8toa.c.s
+
 CMakeFiles/WiFi.dir/src/main.cpp.obj: CMakeFiles/WiFi.dir/flags.make
 CMakeFiles/WiFi.dir/src/main.cpp.obj: CMakeFiles/WiFi.dir/includes_CXX.rsp
 CMakeFiles/WiFi.dir/src/main.cpp.obj: ../src/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/WiFi.dir/src/main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_89) "Building CXX object CMakeFiles/WiFi.dir/src/main.cpp.obj"
 	C:\Users\djrel\.platformio\packages\toolchain-xtensa\bin\xtensa-lx106-elf-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\WiFi.dir\src\main.cpp.obj -c C:\ti-software\WiFi\src\main.cpp
 
 CMakeFiles/WiFi.dir/src/main.cpp.i: cmake_force
@@ -72,17 +1304,193 @@ CMakeFiles/WiFi.dir/src/main.cpp.s: cmake_force
 
 # Object files for target WiFi
 WiFi_OBJECTS = \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/U8x8lib.cpp.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_bitmap.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_box.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_buffer.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_circle.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_cleardisplay.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_d_memory.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_d_setup.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_font.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_fonts.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_hvline.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_input_value.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_intersection.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_kerning.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_line.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_ll_hvline.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_message.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_polygon.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_selection_list.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_setup.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log_u8g2.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log_u8x8.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_8x8.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_byte.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_cad.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_a2printer.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_il3820_296x128.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ist3020.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ks0108.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_lc7981.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ld7032_60x32.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ls013b7dh03.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_max7219.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcd8544_84x48.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8812.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8814_hx1230.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sbn1661.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sed1330.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_64x32.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_72x40.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1107.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1108.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1122.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1305.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x32.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x64_noname.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_48x64.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x32.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x48.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_96x16.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1309.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1317.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1322.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1325.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1326.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1327.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1329.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1606_172x72.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1607_200x200.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st75256.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7565.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7567.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_erc240160.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_s028hn118a.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7588.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7920.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_t6963.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1601.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1604.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1608.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1610.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1611.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1617.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1638.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_dogs102.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_mini12864.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_debounce.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_display.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_fonts.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_gpio.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_input_value.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_message.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_selection_list.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_setup.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_string.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_u16toa.c.obj" \
+"CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_u8toa.c.obj" \
 "CMakeFiles/WiFi.dir/src/main.cpp.obj"
 
 # External object files for target WiFi
 WiFi_EXTERNAL_OBJECTS =
 
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/U8x8lib.cpp.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_bitmap.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_box.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_buffer.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_circle.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_cleardisplay.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_d_memory.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_d_setup.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_font.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_fonts.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_hvline.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_input_value.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_intersection.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_kerning.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_line.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_ll_hvline.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_message.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_polygon.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_selection_list.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_setup.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log_u8g2.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log_u8x8.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_8x8.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_byte.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_cad.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_a2printer.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_il3820_296x128.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ist3020.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ks0108.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_lc7981.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ld7032_60x32.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ls013b7dh03.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_max7219.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcd8544_84x48.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8812.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8814_hx1230.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sbn1661.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sed1330.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_64x32.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_72x40.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1107.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1108.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1122.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1305.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x32.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x64_noname.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_48x64.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x32.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x48.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_96x16.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1309.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1317.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1322.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1325.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1326.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1327.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1329.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1606_172x72.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1607_200x200.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st75256.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7565.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7567.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_erc240160.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_s028hn118a.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7588.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7920.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_t6963.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1601.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1604.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1608.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1610.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1611.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1617.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1638.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_dogs102.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_mini12864.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_debounce.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_display.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_fonts.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_gpio.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_input_value.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_message.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_selection_list.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_setup.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_string.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_u16toa.c.obj
+WiFi.exe: CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_u8toa.c.obj
 WiFi.exe: CMakeFiles/WiFi.dir/src/main.cpp.obj
 WiFi.exe: CMakeFiles/WiFi.dir/build.make
 WiFi.exe: CMakeFiles/WiFi.dir/linklibs.rsp
 WiFi.exe: CMakeFiles/WiFi.dir/objects1.rsp
 WiFi.exe: CMakeFiles/WiFi.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable WiFi.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\ti-software\WiFi\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_90) "Linking CXX executable WiFi.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\WiFi.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

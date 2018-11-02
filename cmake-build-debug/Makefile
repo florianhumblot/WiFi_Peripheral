@@ -226,6 +226,2382 @@ WiFi/fast:
 	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/build
 .PHONY : WiFi/fast
 
+.piolibdeps/U8g2_ID942/src/U8x8lib.obj: .piolibdeps/U8g2_ID942/src/U8x8lib.cpp.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/U8x8lib.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/U8x8lib.cpp.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/U8x8lib.cpp.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/U8x8lib.cpp.obj
+
+.piolibdeps/U8g2_ID942/src/U8x8lib.i: .piolibdeps/U8g2_ID942/src/U8x8lib.cpp.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/U8x8lib.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/U8x8lib.cpp.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/U8x8lib.cpp.i
+.PHONY : .piolibdeps/U8g2_ID942/src/U8x8lib.cpp.i
+
+.piolibdeps/U8g2_ID942/src/U8x8lib.s: .piolibdeps/U8g2_ID942/src/U8x8lib.cpp.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/U8x8lib.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/U8x8lib.cpp.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/U8x8lib.cpp.s
+.PHONY : .piolibdeps/U8g2_ID942/src/U8x8lib.cpp.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_bitmap.obj: .piolibdeps/U8g2_ID942/src/clib/u8g2_bitmap.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_bitmap.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_bitmap.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_bitmap.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_bitmap.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_bitmap.i: .piolibdeps/U8g2_ID942/src/clib/u8g2_bitmap.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_bitmap.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_bitmap.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_bitmap.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_bitmap.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_bitmap.s: .piolibdeps/U8g2_ID942/src/clib/u8g2_bitmap.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_bitmap.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_bitmap.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_bitmap.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_bitmap.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_box.obj: .piolibdeps/U8g2_ID942/src/clib/u8g2_box.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_box.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_box.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_box.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_box.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_box.i: .piolibdeps/U8g2_ID942/src/clib/u8g2_box.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_box.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_box.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_box.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_box.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_box.s: .piolibdeps/U8g2_ID942/src/clib/u8g2_box.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_box.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_box.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_box.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_box.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_buffer.obj: .piolibdeps/U8g2_ID942/src/clib/u8g2_buffer.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_buffer.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_buffer.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_buffer.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_buffer.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_buffer.i: .piolibdeps/U8g2_ID942/src/clib/u8g2_buffer.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_buffer.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_buffer.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_buffer.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_buffer.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_buffer.s: .piolibdeps/U8g2_ID942/src/clib/u8g2_buffer.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_buffer.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_buffer.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_buffer.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_buffer.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_circle.obj: .piolibdeps/U8g2_ID942/src/clib/u8g2_circle.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_circle.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_circle.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_circle.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_circle.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_circle.i: .piolibdeps/U8g2_ID942/src/clib/u8g2_circle.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_circle.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_circle.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_circle.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_circle.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_circle.s: .piolibdeps/U8g2_ID942/src/clib/u8g2_circle.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_circle.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_circle.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_circle.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_circle.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_cleardisplay.obj: .piolibdeps/U8g2_ID942/src/clib/u8g2_cleardisplay.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_cleardisplay.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_cleardisplay.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_cleardisplay.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_cleardisplay.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_cleardisplay.i: .piolibdeps/U8g2_ID942/src/clib/u8g2_cleardisplay.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_cleardisplay.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_cleardisplay.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_cleardisplay.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_cleardisplay.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_cleardisplay.s: .piolibdeps/U8g2_ID942/src/clib/u8g2_cleardisplay.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_cleardisplay.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_cleardisplay.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_cleardisplay.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_cleardisplay.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_d_memory.obj: .piolibdeps/U8g2_ID942/src/clib/u8g2_d_memory.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_d_memory.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_d_memory.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_d_memory.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_d_memory.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_d_memory.i: .piolibdeps/U8g2_ID942/src/clib/u8g2_d_memory.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_d_memory.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_d_memory.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_d_memory.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_d_memory.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_d_memory.s: .piolibdeps/U8g2_ID942/src/clib/u8g2_d_memory.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_d_memory.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_d_memory.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_d_memory.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_d_memory.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_d_setup.obj: .piolibdeps/U8g2_ID942/src/clib/u8g2_d_setup.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_d_setup.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_d_setup.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_d_setup.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_d_setup.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_d_setup.i: .piolibdeps/U8g2_ID942/src/clib/u8g2_d_setup.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_d_setup.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_d_setup.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_d_setup.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_d_setup.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_d_setup.s: .piolibdeps/U8g2_ID942/src/clib/u8g2_d_setup.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_d_setup.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_d_setup.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_d_setup.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_d_setup.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_font.obj: .piolibdeps/U8g2_ID942/src/clib/u8g2_font.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_font.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_font.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_font.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_font.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_font.i: .piolibdeps/U8g2_ID942/src/clib/u8g2_font.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_font.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_font.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_font.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_font.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_font.s: .piolibdeps/U8g2_ID942/src/clib/u8g2_font.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_font.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_font.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_font.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_font.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_fonts.obj: .piolibdeps/U8g2_ID942/src/clib/u8g2_fonts.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_fonts.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_fonts.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_fonts.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_fonts.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_fonts.i: .piolibdeps/U8g2_ID942/src/clib/u8g2_fonts.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_fonts.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_fonts.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_fonts.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_fonts.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_fonts.s: .piolibdeps/U8g2_ID942/src/clib/u8g2_fonts.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_fonts.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_fonts.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_fonts.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_fonts.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_hvline.obj: .piolibdeps/U8g2_ID942/src/clib/u8g2_hvline.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_hvline.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_hvline.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_hvline.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_hvline.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_hvline.i: .piolibdeps/U8g2_ID942/src/clib/u8g2_hvline.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_hvline.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_hvline.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_hvline.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_hvline.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_hvline.s: .piolibdeps/U8g2_ID942/src/clib/u8g2_hvline.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_hvline.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_hvline.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_hvline.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_hvline.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_input_value.obj: .piolibdeps/U8g2_ID942/src/clib/u8g2_input_value.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_input_value.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_input_value.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_input_value.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_input_value.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_input_value.i: .piolibdeps/U8g2_ID942/src/clib/u8g2_input_value.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_input_value.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_input_value.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_input_value.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_input_value.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_input_value.s: .piolibdeps/U8g2_ID942/src/clib/u8g2_input_value.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_input_value.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_input_value.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_input_value.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_input_value.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_intersection.obj: .piolibdeps/U8g2_ID942/src/clib/u8g2_intersection.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_intersection.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_intersection.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_intersection.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_intersection.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_intersection.i: .piolibdeps/U8g2_ID942/src/clib/u8g2_intersection.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_intersection.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_intersection.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_intersection.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_intersection.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_intersection.s: .piolibdeps/U8g2_ID942/src/clib/u8g2_intersection.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_intersection.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_intersection.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_intersection.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_intersection.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_kerning.obj: .piolibdeps/U8g2_ID942/src/clib/u8g2_kerning.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_kerning.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_kerning.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_kerning.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_kerning.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_kerning.i: .piolibdeps/U8g2_ID942/src/clib/u8g2_kerning.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_kerning.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_kerning.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_kerning.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_kerning.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_kerning.s: .piolibdeps/U8g2_ID942/src/clib/u8g2_kerning.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_kerning.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_kerning.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_kerning.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_kerning.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_line.obj: .piolibdeps/U8g2_ID942/src/clib/u8g2_line.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_line.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_line.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_line.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_line.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_line.i: .piolibdeps/U8g2_ID942/src/clib/u8g2_line.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_line.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_line.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_line.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_line.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_line.s: .piolibdeps/U8g2_ID942/src/clib/u8g2_line.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_line.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_line.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_line.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_line.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_ll_hvline.obj: .piolibdeps/U8g2_ID942/src/clib/u8g2_ll_hvline.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_ll_hvline.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_ll_hvline.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_ll_hvline.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_ll_hvline.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_ll_hvline.i: .piolibdeps/U8g2_ID942/src/clib/u8g2_ll_hvline.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_ll_hvline.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_ll_hvline.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_ll_hvline.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_ll_hvline.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_ll_hvline.s: .piolibdeps/U8g2_ID942/src/clib/u8g2_ll_hvline.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_ll_hvline.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_ll_hvline.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_ll_hvline.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_ll_hvline.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_message.obj: .piolibdeps/U8g2_ID942/src/clib/u8g2_message.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_message.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_message.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_message.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_message.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_message.i: .piolibdeps/U8g2_ID942/src/clib/u8g2_message.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_message.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_message.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_message.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_message.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_message.s: .piolibdeps/U8g2_ID942/src/clib/u8g2_message.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_message.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_message.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_message.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_message.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_polygon.obj: .piolibdeps/U8g2_ID942/src/clib/u8g2_polygon.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_polygon.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_polygon.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_polygon.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_polygon.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_polygon.i: .piolibdeps/U8g2_ID942/src/clib/u8g2_polygon.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_polygon.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_polygon.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_polygon.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_polygon.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_polygon.s: .piolibdeps/U8g2_ID942/src/clib/u8g2_polygon.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_polygon.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_polygon.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_polygon.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_polygon.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_selection_list.obj: .piolibdeps/U8g2_ID942/src/clib/u8g2_selection_list.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_selection_list.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_selection_list.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_selection_list.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_selection_list.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_selection_list.i: .piolibdeps/U8g2_ID942/src/clib/u8g2_selection_list.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_selection_list.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_selection_list.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_selection_list.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_selection_list.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_selection_list.s: .piolibdeps/U8g2_ID942/src/clib/u8g2_selection_list.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_selection_list.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_selection_list.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_selection_list.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_selection_list.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_setup.obj: .piolibdeps/U8g2_ID942/src/clib/u8g2_setup.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_setup.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_setup.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_setup.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_setup.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_setup.i: .piolibdeps/U8g2_ID942/src/clib/u8g2_setup.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_setup.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_setup.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_setup.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_setup.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8g2_setup.s: .piolibdeps/U8g2_ID942/src/clib/u8g2_setup.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_setup.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8g2_setup.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8g2_setup.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8g2_setup.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8log.obj: .piolibdeps/U8g2_ID942/src/clib/u8log.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8log.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8log.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8log.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8log.i: .piolibdeps/U8g2_ID942/src/clib/u8log.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8log.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8log.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8log.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8log.s: .piolibdeps/U8g2_ID942/src/clib/u8log.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8log.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8log.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8log.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8log_u8g2.obj: .piolibdeps/U8g2_ID942/src/clib/u8log_u8g2.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8log_u8g2.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8log_u8g2.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log_u8g2.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8log_u8g2.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8log_u8g2.i: .piolibdeps/U8g2_ID942/src/clib/u8log_u8g2.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8log_u8g2.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8log_u8g2.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log_u8g2.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8log_u8g2.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8log_u8g2.s: .piolibdeps/U8g2_ID942/src/clib/u8log_u8g2.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8log_u8g2.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8log_u8g2.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log_u8g2.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8log_u8g2.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8log_u8x8.obj: .piolibdeps/U8g2_ID942/src/clib/u8log_u8x8.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8log_u8x8.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8log_u8x8.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log_u8x8.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8log_u8x8.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8log_u8x8.i: .piolibdeps/U8g2_ID942/src/clib/u8log_u8x8.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8log_u8x8.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8log_u8x8.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log_u8x8.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8log_u8x8.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8log_u8x8.s: .piolibdeps/U8g2_ID942/src/clib/u8log_u8x8.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8log_u8x8.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8log_u8x8.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8log_u8x8.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8log_u8x8.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_8x8.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_8x8.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_8x8.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_8x8.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_8x8.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_8x8.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_8x8.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_8x8.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_8x8.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_8x8.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_8x8.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_8x8.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_8x8.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_8x8.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_8x8.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_8x8.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_8x8.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_8x8.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_byte.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_byte.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_byte.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_byte.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_byte.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_byte.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_byte.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_byte.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_byte.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_byte.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_byte.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_byte.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_byte.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_byte.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_byte.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_byte.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_byte.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_byte.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_cad.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_cad.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_cad.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_cad.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_cad.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_cad.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_cad.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_cad.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_cad.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_cad.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_cad.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_cad.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_cad.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_cad.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_cad.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_cad.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_cad.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_cad.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_a2printer.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_a2printer.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_a2printer.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_a2printer.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_a2printer.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_a2printer.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_a2printer.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_a2printer.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_a2printer.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_a2printer.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_a2printer.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_a2printer.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_a2printer.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_a2printer.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_a2printer.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_a2printer.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_a2printer.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_a2printer.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_il3820_296x128.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_il3820_296x128.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_il3820_296x128.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_il3820_296x128.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_il3820_296x128.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_il3820_296x128.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_il3820_296x128.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_il3820_296x128.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_il3820_296x128.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_il3820_296x128.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_il3820_296x128.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_il3820_296x128.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_il3820_296x128.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_il3820_296x128.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_il3820_296x128.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_il3820_296x128.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_il3820_296x128.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_il3820_296x128.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ist3020.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ist3020.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ist3020.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ist3020.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ist3020.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ist3020.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ist3020.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ist3020.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ist3020.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ist3020.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ist3020.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ist3020.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ist3020.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ist3020.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ist3020.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ist3020.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ist3020.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ist3020.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ks0108.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ks0108.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ks0108.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ks0108.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ks0108.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ks0108.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ks0108.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ks0108.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ks0108.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ks0108.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ks0108.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ks0108.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ks0108.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ks0108.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ks0108.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ks0108.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ks0108.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ks0108.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_lc7981.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_lc7981.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_lc7981.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_lc7981.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_lc7981.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_lc7981.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_lc7981.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_lc7981.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_lc7981.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_lc7981.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_lc7981.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_lc7981.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_lc7981.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_lc7981.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_lc7981.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_lc7981.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_lc7981.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_lc7981.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ld7032_60x32.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ld7032_60x32.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ld7032_60x32.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ld7032_60x32.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ld7032_60x32.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ld7032_60x32.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ld7032_60x32.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ld7032_60x32.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ld7032_60x32.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ld7032_60x32.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ld7032_60x32.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ld7032_60x32.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ld7032_60x32.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ld7032_60x32.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ld7032_60x32.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ld7032_60x32.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ld7032_60x32.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ld7032_60x32.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ls013b7dh03.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ls013b7dh03.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ls013b7dh03.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ls013b7dh03.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ls013b7dh03.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ls013b7dh03.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ls013b7dh03.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ls013b7dh03.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ls013b7dh03.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ls013b7dh03.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ls013b7dh03.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ls013b7dh03.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ls013b7dh03.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ls013b7dh03.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ls013b7dh03.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ls013b7dh03.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ls013b7dh03.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ls013b7dh03.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_max7219.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_max7219.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_max7219.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_max7219.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_max7219.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_max7219.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_max7219.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_max7219.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_max7219.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_max7219.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_max7219.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_max7219.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_max7219.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_max7219.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_max7219.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_max7219.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_max7219.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_max7219.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcd8544_84x48.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcd8544_84x48.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcd8544_84x48.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcd8544_84x48.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcd8544_84x48.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcd8544_84x48.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcd8544_84x48.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcd8544_84x48.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcd8544_84x48.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcd8544_84x48.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcd8544_84x48.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcd8544_84x48.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcd8544_84x48.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcd8544_84x48.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcd8544_84x48.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcd8544_84x48.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcd8544_84x48.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcd8544_84x48.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8812.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8812.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8812.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8812.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8812.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8812.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8812.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8812.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8812.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8812.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8812.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8812.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8812.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8812.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8812.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8812.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8812.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8812.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8814_hx1230.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8814_hx1230.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8814_hx1230.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8814_hx1230.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8814_hx1230.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8814_hx1230.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8814_hx1230.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8814_hx1230.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8814_hx1230.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8814_hx1230.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8814_hx1230.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8814_hx1230.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8814_hx1230.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8814_hx1230.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8814_hx1230.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8814_hx1230.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8814_hx1230.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8814_hx1230.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sbn1661.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sbn1661.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sbn1661.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sbn1661.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sbn1661.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sbn1661.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sbn1661.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sbn1661.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sbn1661.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sbn1661.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sbn1661.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sbn1661.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sbn1661.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sbn1661.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sbn1661.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sbn1661.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sbn1661.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sbn1661.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sed1330.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sed1330.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sed1330.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sed1330.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sed1330.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sed1330.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sed1330.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sed1330.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sed1330.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sed1330.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sed1330.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sed1330.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sed1330.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sed1330.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sed1330.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sed1330.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sed1330.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sed1330.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_64x32.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_64x32.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_64x32.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_64x32.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_64x32.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_64x32.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_64x32.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_64x32.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_64x32.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_64x32.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_64x32.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_64x32.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_64x32.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_64x32.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_64x32.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_64x32.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_64x32.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_64x32.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_72x40.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_72x40.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_72x40.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_72x40.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_72x40.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_72x40.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_72x40.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_72x40.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_72x40.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_72x40.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_72x40.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_72x40.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_72x40.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_72x40.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_72x40.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_72x40.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_72x40.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_72x40.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1107.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1107.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1107.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1107.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1107.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1107.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1107.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1107.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1107.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1107.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1107.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1107.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1107.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1107.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1107.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1107.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1107.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1107.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1108.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1108.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1108.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1108.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1108.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1108.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1108.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1108.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1108.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1108.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1108.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1108.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1108.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1108.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1108.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1108.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1108.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1108.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1122.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1122.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1122.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1122.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1122.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1122.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1122.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1122.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1122.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1122.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1122.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1122.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1122.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1122.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1122.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1122.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1122.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1122.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1305.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1305.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1305.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1305.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1305.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1305.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1305.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1305.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1305.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1305.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1305.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1305.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1305.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1305.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1305.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1305.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1305.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1305.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x32.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x32.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x32.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x32.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x32.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x32.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x32.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x32.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x32.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x32.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x32.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x32.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x32.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x32.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x32.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x32.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x32.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x32.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x64_noname.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x64_noname.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x64_noname.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x64_noname.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x64_noname.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x64_noname.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x64_noname.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x64_noname.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x64_noname.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x64_noname.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x64_noname.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x64_noname.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x64_noname.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x64_noname.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x64_noname.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x64_noname.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x64_noname.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x64_noname.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_48x64.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_48x64.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_48x64.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_48x64.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_48x64.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_48x64.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_48x64.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_48x64.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_48x64.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_48x64.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_48x64.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_48x64.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_48x64.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_48x64.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_48x64.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_48x64.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_48x64.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_48x64.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x32.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x32.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x32.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x32.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x32.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x32.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x32.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x32.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x32.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x32.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x32.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x32.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x32.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x32.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x32.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x32.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x32.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x32.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x48.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x48.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x48.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x48.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x48.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x48.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x48.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x48.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x48.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x48.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x48.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x48.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x48.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x48.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x48.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x48.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x48.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x48.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_96x16.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_96x16.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_96x16.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_96x16.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_96x16.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_96x16.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_96x16.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_96x16.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_96x16.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_96x16.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_96x16.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_96x16.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_96x16.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_96x16.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_96x16.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_96x16.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_96x16.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_96x16.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1309.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1309.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1309.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1309.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1309.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1309.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1309.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1309.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1309.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1309.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1309.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1309.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1309.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1309.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1309.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1309.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1309.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1309.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1317.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1317.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1317.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1317.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1317.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1317.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1317.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1317.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1317.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1317.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1317.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1317.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1317.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1317.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1317.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1317.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1317.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1317.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1322.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1322.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1322.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1322.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1322.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1322.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1322.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1322.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1322.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1322.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1322.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1322.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1322.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1322.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1322.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1322.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1322.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1322.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1325.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1325.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1325.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1325.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1325.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1325.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1325.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1325.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1325.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1325.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1325.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1325.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1325.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1325.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1325.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1325.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1325.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1325.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1326.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1326.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1326.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1326.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1326.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1326.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1326.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1326.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1326.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1326.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1326.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1326.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1326.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1326.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1326.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1326.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1326.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1326.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1327.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1327.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1327.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1327.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1327.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1327.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1327.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1327.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1327.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1327.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1327.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1327.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1327.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1327.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1327.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1327.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1327.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1327.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1329.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1329.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1329.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1329.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1329.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1329.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1329.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1329.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1329.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1329.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1329.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1329.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1329.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1329.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1329.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1329.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1329.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1329.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1606_172x72.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1606_172x72.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1606_172x72.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1606_172x72.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1606_172x72.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1606_172x72.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1606_172x72.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1606_172x72.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1606_172x72.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1606_172x72.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1606_172x72.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1606_172x72.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1606_172x72.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1606_172x72.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1606_172x72.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1606_172x72.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1606_172x72.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1606_172x72.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1607_200x200.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1607_200x200.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1607_200x200.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1607_200x200.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1607_200x200.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1607_200x200.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1607_200x200.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1607_200x200.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1607_200x200.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1607_200x200.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1607_200x200.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1607_200x200.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1607_200x200.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1607_200x200.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1607_200x200.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1607_200x200.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1607_200x200.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1607_200x200.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st75256.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st75256.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st75256.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st75256.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st75256.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st75256.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st75256.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st75256.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st75256.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st75256.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st75256.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st75256.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st75256.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st75256.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st75256.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st75256.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st75256.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st75256.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7565.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7565.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7565.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7565.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7565.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7565.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7565.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7565.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7565.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7565.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7565.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7565.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7565.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7565.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7565.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7565.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7565.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7565.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7567.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7567.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7567.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7567.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7567.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7567.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7567.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7567.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7567.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7567.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7567.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7567.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7567.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7567.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7567.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7567.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7567.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7567.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_erc240160.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_erc240160.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_erc240160.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_erc240160.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_erc240160.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_erc240160.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_erc240160.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_erc240160.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_erc240160.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_erc240160.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_erc240160.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_erc240160.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_erc240160.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_erc240160.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_erc240160.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_erc240160.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_erc240160.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_erc240160.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_s028hn118a.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_s028hn118a.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_s028hn118a.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_s028hn118a.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_s028hn118a.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_s028hn118a.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_s028hn118a.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_s028hn118a.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_s028hn118a.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_s028hn118a.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_s028hn118a.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_s028hn118a.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_s028hn118a.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_s028hn118a.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_s028hn118a.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_s028hn118a.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_s028hn118a.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_s028hn118a.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7588.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7588.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7588.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7588.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7588.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7588.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7588.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7588.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7588.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7588.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7588.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7588.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7588.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7588.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7588.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7588.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7588.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7588.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7920.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7920.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7920.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7920.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7920.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7920.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7920.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7920.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7920.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7920.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7920.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7920.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7920.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7920.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7920.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7920.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7920.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7920.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_t6963.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_t6963.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_t6963.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_t6963.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_t6963.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_t6963.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_t6963.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_t6963.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_t6963.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_t6963.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_t6963.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_t6963.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_t6963.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_t6963.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_t6963.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_t6963.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_t6963.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_t6963.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1601.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1601.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1601.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1601.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1601.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1601.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1601.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1601.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1601.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1601.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1601.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1601.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1601.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1601.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1601.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1601.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1601.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1601.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1604.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1604.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1604.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1604.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1604.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1604.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1604.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1604.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1604.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1604.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1604.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1604.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1604.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1604.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1604.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1604.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1604.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1604.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1608.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1608.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1608.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1608.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1608.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1608.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1608.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1608.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1608.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1608.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1608.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1608.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1608.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1608.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1608.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1608.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1608.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1608.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1610.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1610.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1610.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1610.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1610.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1610.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1610.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1610.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1610.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1610.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1610.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1610.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1610.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1610.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1610.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1610.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1610.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1610.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1611.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1611.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1611.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1611.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1611.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1611.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1611.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1611.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1611.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1611.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1611.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1611.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1611.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1611.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1611.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1611.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1611.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1611.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1617.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1617.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1617.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1617.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1617.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1617.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1617.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1617.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1617.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1617.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1617.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1617.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1617.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1617.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1617.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1617.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1617.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1617.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1638.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1638.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1638.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1638.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1638.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1638.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1638.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1638.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1638.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1638.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1638.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1638.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1638.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1638.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1638.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1638.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1638.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1638.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_dogs102.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_dogs102.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_dogs102.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_dogs102.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_dogs102.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_dogs102.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_dogs102.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_dogs102.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_dogs102.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_dogs102.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_dogs102.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_dogs102.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_dogs102.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_dogs102.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_dogs102.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_dogs102.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_dogs102.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_dogs102.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_mini12864.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_mini12864.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_mini12864.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_mini12864.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_mini12864.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_mini12864.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_mini12864.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_mini12864.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_mini12864.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_mini12864.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_mini12864.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_mini12864.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_mini12864.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_mini12864.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_mini12864.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_mini12864.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_mini12864.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_mini12864.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_debounce.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_debounce.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_debounce.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_debounce.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_debounce.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_debounce.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_debounce.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_debounce.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_debounce.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_debounce.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_debounce.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_debounce.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_debounce.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_debounce.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_debounce.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_debounce.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_debounce.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_debounce.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_display.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_display.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_display.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_display.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_display.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_display.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_display.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_display.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_display.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_display.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_display.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_display.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_display.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_display.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_display.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_display.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_display.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_display.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_fonts.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_fonts.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_fonts.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_fonts.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_fonts.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_fonts.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_fonts.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_fonts.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_fonts.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_fonts.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_fonts.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_fonts.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_fonts.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_fonts.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_fonts.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_fonts.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_fonts.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_fonts.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_gpio.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_gpio.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_gpio.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_gpio.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_gpio.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_gpio.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_gpio.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_gpio.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_gpio.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_gpio.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_gpio.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_gpio.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_gpio.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_gpio.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_gpio.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_gpio.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_gpio.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_gpio.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_input_value.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_input_value.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_input_value.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_input_value.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_input_value.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_input_value.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_input_value.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_input_value.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_input_value.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_input_value.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_input_value.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_input_value.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_input_value.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_input_value.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_input_value.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_input_value.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_input_value.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_input_value.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_message.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_message.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_message.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_message.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_message.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_message.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_message.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_message.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_message.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_message.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_message.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_message.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_message.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_message.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_message.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_message.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_message.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_message.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_selection_list.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_selection_list.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_selection_list.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_selection_list.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_selection_list.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_selection_list.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_selection_list.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_selection_list.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_selection_list.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_selection_list.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_selection_list.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_selection_list.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_selection_list.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_selection_list.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_selection_list.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_selection_list.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_selection_list.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_selection_list.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_setup.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_setup.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_setup.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_setup.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_setup.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_setup.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_setup.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_setup.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_setup.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_setup.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_setup.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_setup.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_setup.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_setup.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_setup.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_setup.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_setup.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_setup.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_string.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_string.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_string.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_string.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_string.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_string.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_string.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_string.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_string.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_string.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_string.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_string.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_string.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_string.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_string.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_string.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_string.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_string.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_u16toa.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_u16toa.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_u16toa.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_u16toa.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_u16toa.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_u16toa.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_u16toa.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_u16toa.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_u16toa.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_u16toa.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_u16toa.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_u16toa.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_u16toa.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_u16toa.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_u16toa.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_u16toa.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_u16toa.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_u16toa.c.s
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_u8toa.obj: .piolibdeps/U8g2_ID942/src/clib/u8x8_u8toa.c.obj
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_u8toa.obj
+
+# target to build an object file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_u8toa.c.obj:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_u8toa.c.obj
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_u8toa.c.obj
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_u8toa.i: .piolibdeps/U8g2_ID942/src/clib/u8x8_u8toa.c.i
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_u8toa.i
+
+# target to preprocess a source file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_u8toa.c.i:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_u8toa.c.i
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_u8toa.c.i
+
+.piolibdeps/U8g2_ID942/src/clib/u8x8_u8toa.s: .piolibdeps/U8g2_ID942/src/clib/u8x8_u8toa.c.s
+
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_u8toa.s
+
+# target to generate assembly for a file
+.piolibdeps/U8g2_ID942/src/clib/u8x8_u8toa.c.s:
+	$(MAKE) -f CMakeFiles\WiFi.dir\build.make CMakeFiles/WiFi.dir/.piolibdeps/U8g2_ID942/src/clib/u8x8_u8toa.c.s
+.PHONY : .piolibdeps/U8g2_ID942/src/clib/u8x8_u8toa.c.s
+
 src/main.obj: src/main.cpp.obj
 
 .PHONY : src/main.obj
@@ -270,6 +2646,270 @@ help:
 	@echo ... edit_cache
 	@echo ... WiFi
 	@echo ... rebuild_cache
+	@echo ... .piolibdeps/U8g2_ID942/src/U8x8lib.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/U8x8lib.i
+	@echo ... .piolibdeps/U8g2_ID942/src/U8x8lib.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_bitmap.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_bitmap.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_bitmap.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_box.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_box.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_box.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_buffer.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_buffer.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_buffer.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_circle.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_circle.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_circle.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_cleardisplay.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_cleardisplay.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_cleardisplay.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_d_memory.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_d_memory.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_d_memory.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_d_setup.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_d_setup.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_d_setup.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_font.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_font.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_font.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_fonts.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_fonts.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_fonts.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_hvline.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_hvline.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_hvline.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_input_value.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_input_value.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_input_value.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_intersection.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_intersection.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_intersection.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_kerning.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_kerning.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_kerning.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_line.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_line.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_line.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_ll_hvline.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_ll_hvline.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_ll_hvline.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_message.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_message.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_message.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_polygon.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_polygon.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_polygon.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_selection_list.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_selection_list.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_selection_list.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_setup.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_setup.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8g2_setup.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8log.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8log.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8log.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8log_u8g2.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8log_u8g2.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8log_u8g2.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8log_u8x8.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8log_u8x8.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8log_u8x8.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_8x8.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_8x8.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_8x8.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_byte.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_byte.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_byte.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_cad.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_cad.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_cad.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_a2printer.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_a2printer.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_a2printer.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_il3820_296x128.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_il3820_296x128.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_il3820_296x128.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ist3020.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ist3020.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ist3020.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ks0108.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ks0108.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ks0108.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_lc7981.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_lc7981.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_lc7981.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ld7032_60x32.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ld7032_60x32.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ld7032_60x32.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ls013b7dh03.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ls013b7dh03.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ls013b7dh03.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_max7219.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_max7219.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_max7219.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcd8544_84x48.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcd8544_84x48.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcd8544_84x48.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8812.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8812.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8812.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8814_hx1230.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8814_hx1230.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_pcf8814_hx1230.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sbn1661.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sbn1661.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sbn1661.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sed1330.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sed1330.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sed1330.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_64x32.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_64x32.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_64x32.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_72x40.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_72x40.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1106_72x40.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1107.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1107.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1107.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1108.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1108.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1108.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1122.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1122.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_sh1122.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1305.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1305.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1305.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x32.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x32.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x32.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x64_noname.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x64_noname.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_128x64_noname.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_48x64.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_48x64.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_48x64.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x32.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x32.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x32.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x48.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x48.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_64x48.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_96x16.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_96x16.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1306_96x16.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1309.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1309.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1309.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1317.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1317.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1317.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1322.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1322.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1322.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1325.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1325.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1325.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1326.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1326.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1326.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1327.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1327.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1327.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1329.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1329.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1329.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1606_172x72.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1606_172x72.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1606_172x72.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1607_200x200.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1607_200x200.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_ssd1607_200x200.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st75256.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st75256.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st75256.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7565.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7565.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7565.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7567.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7567.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7567.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_erc240160.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_erc240160.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_erc240160.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_s028hn118a.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_s028hn118a.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7586s_s028hn118a.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7588.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7588.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7588.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7920.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7920.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_st7920.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_t6963.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_t6963.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_t6963.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1601.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1601.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1601.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1604.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1604.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1604.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1608.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1608.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1608.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1610.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1610.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1610.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1611.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1611.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1611.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1617.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1617.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1617.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1638.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1638.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1638.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_dogs102.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_dogs102.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_dogs102.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_mini12864.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_mini12864.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_d_uc1701_mini12864.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_debounce.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_debounce.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_debounce.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_display.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_display.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_display.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_fonts.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_fonts.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_fonts.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_gpio.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_gpio.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_gpio.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_input_value.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_input_value.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_input_value.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_message.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_message.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_message.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_selection_list.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_selection_list.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_selection_list.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_setup.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_setup.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_setup.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_string.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_string.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_string.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_u16toa.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_u16toa.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_u16toa.s
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_u8toa.obj
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_u8toa.i
+	@echo ... .piolibdeps/U8g2_ID942/src/clib/u8x8_u8toa.s
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s
