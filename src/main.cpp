@@ -83,28 +83,13 @@ void setup() {
 
 	due.begin(2400);
 	delay(1000);
-//  due.println();
-//  due.print("Connecting to: ");
-//  due.print(SSID);
-//  due.print(" , with password: ");
-//  due.println(pwd);
 	WiFi.begin("Arduino_WiFi", "cAdexdy%2");
 	while (WiFi.status() != WL_CONNECTED) {
-//    due.print("Couldn't connect: " );
-//    due.println(WiFi.status());
 		delay(1000);
-		//due.print(".");
 	}
-//  due.println();
-//  due.print("Connected, IP address: ");
-//  due.println(WiFi.localIP());
-//  due.println("Trying to connect to 192.168.137.1:8080");
 	while (client.connect(IPAddress(192, 168, 137, 1), 8080) != true) {
-//    due.println("Retrying...");
 		delay(500);
 	}
-//  due.println("Connected to host!");
-//  client.write("Hello World!");
 	u8g2.clearBuffer();
 	u8g2.drawStr(0, 10, "Connected!");
 	u8g2.sendBuffer();
@@ -141,7 +126,6 @@ void loop() {
 			u8g2.clearBuffer();
 			u8g2.drawStr(0,30, incomingWifi.c_str());
 			u8g2.sendBuffer();
-			//Serial.println(incomingWifi.c_str());
 			IN = msg(incomingWifi);
 			incomingWifi = "";
 		}
