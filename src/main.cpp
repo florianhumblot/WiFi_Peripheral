@@ -47,7 +47,7 @@ public:
 
 		command = static_cast<CMD>(basic_string[colon + 1] - '0');
 		if (command == R_PLAYER_NAME || command == R_KILLED_BY) {
-			naam = basic_string.substr(comma + 1);
+			naam = basic_string.substr(comma + 1, semicolon-1);
 		} else {
 			waarde = static_cast<uint8_t>(basic_string[comma + 1] - '0');
 		}
@@ -61,8 +61,8 @@ public:
 			out += naam;
 		} else {
 			out += (waarde + '0');
+			out += ';';
 		}
-		out += ';';
 		return out;
 	}
 
@@ -93,7 +93,7 @@ void setup() {
 //    due.print("Couldn't connect: " );
 //    due.println(WiFi.status());
 		delay(1000);
-		due.print(".");
+		//due.print(".");
 	}
 //  due.println();
 //  due.print("Connected, IP address: ");
