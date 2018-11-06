@@ -11,8 +11,8 @@
 #endif
 
 WiFiClient client;
-const char *SSID = "Arduino_WiFi";
-const char *pwd = "cAdexdy%2";
+const char *SSID = "hotspot55";
+const char *pwd = "hotspot55";
 U8G2_SSD1306_128X32_UNIVISION_F_HW_I2C u8g2(U8G2_R0, /* reset=*/ 4, /* clock=*/ 14, /* data=*/ 2);
 SoftwareSerial due(12, 13, false, 256);
 enum CMD : uint8_t {
@@ -83,7 +83,7 @@ void setup() {
 
 	due.begin(2400);
 	delay(1000);
-	WiFi.begin("Arduino_WiFi", "cAdexdy%2");
+	WiFi.begin(SSID, pwd);
 	while (WiFi.status() != WL_CONNECTED) {
 		delay(1000);
 	}
