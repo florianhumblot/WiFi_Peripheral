@@ -76,7 +76,7 @@ void setup() {
 	u8g2.begin();
 	u8g2.setFont(u8g2_font_5x7_mf );
 	u8g2.clearBuffer();
-	u8g2.drawStr(0,20,"Hello World!");
+	u8g2.drawStr(0,20,"Connecting to network");
 	u8g2.sendBuffer();
 
 
@@ -86,6 +86,9 @@ void setup() {
 	WiFi.begin(SSID, pwd);
 	while (WiFi.status() != WL_CONNECTED) {
 		delay(1000);
+		u8g2.clearBuffer();
+		u8g2.drawStr(0, 20,"Connecting...");
+		u8g2.sendBuffer();
 	}
 	while (client.connect(IPAddress(192, 168, 137, 1), 8080) != true) {
 		delay(500);
@@ -102,46 +105,52 @@ std::string incomingDue;
 std::string incomingWifi;
 
 void loop() {
-	while (client.connected()) {
-		bool due_message_received = false;
-		bool wifi_message_received = false;
-		msg OUT;
-		msg IN;
-		if (due.available()) {
-			while (due.available()) {
-				due_message_received = true;
-				incomingDue.push_back((char) due.read());
+	while(WiFi.status() == WL_CONNECTED) {
+		while (client.connected()) {
+			bool due_message_received = false;
+			bool wifi_message_received = false;
+			msg OUT;
+			msg IN;
+			if (due.available()) {
+				while (due.available()) {
+					due_message_received = true;
+					incomingDue.push_back((char) due.read());
+				}
+				u8g2.clearBuffer();
+				u8g2.drawStr(0, 20, incomingDue.c_str());
+				u8g2.sendBuffer();
+				OUT = msg(incomingDue);
+				incomingDue = "";
 			}
-			u8g2.clearBuffer();
-			u8g2.drawStr(0,20, incomingDue.c_str());
-			u8g2.sendBuffer();
-			OUT = msg(incomingDue);
-			incomingDue = "";
-		}
-		if (client.available()) {
-			while (client.available()) {
-				wifi_message_received = true;
-				incomingWifi.push_back((char) client.read());
+			if (client.available()) {
+				while (client.available()) {
+					wifi_message_received = true;
+					incomingWifi.push_back((char) client.read());
+				}
+				u8g2.clearBuffer();
+				u8g2.drawStr(0, 30, incomingWifi.c_str());
+				u8g2.sendBuffer();
+				IN = msg(incomingWifi);
+				incomingWifi = "";
 			}
-			u8g2.clearBuffer();
-			u8g2.drawStr(0,30, incomingWifi.c_str());
-			u8g2.sendBuffer();
-			IN = msg(incomingWifi);
-			incomingWifi = "";
-		}
 
-		if (due_message_received && client.availableForWrite()) {
-			client.write(OUT.serialize().c_str());
-			due_message_received = false;
-			delay(500);
-		}
-		if (wifi_message_received) {
-			due.write(IN.serialize().c_str());
-			wifi_message_received = false;
-			delay(500);
-		}
+			if (due_message_received && client.availableForWrite()) {
+				client.write(OUT.serialize().c_str());
+				due_message_received = false;
+				delay(500);
+			}
+			if (wifi_message_received) {
+				due.write(IN.serialize().c_str());
+				wifi_message_received = false;
+				delay(500);
+			}
 
+		}
+		client.connect(IPAddress(192, 168, 137, 1), 8080);
 	}
-	client.connect(IPAddress(192, 168, 137, 1), 8080);
+	WiFi.begin(SSID, pwd);
+	while (WiFi.status() != WL_CONNECTED) {
+		delay(1000);
+	}
 }
 
