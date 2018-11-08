@@ -16,16 +16,19 @@ const char *pwd = "hotspot44";
 U8G2_SSD1306_128X32_UNIVISION_F_HW_I2C u8g2(U8G2_R0, /* reset=*/ 4, /* clock=*/ 14, /* data=*/ 2);
 SoftwareSerial due(12, 13, false, 256);
 enum CMD : uint8_t {
-	R_PLAYER_NAME,
-	R_SELECTED_DMG,
-	R_PLAYER_ID,
-	R_START_GAME,
-	R_KILLED_BY,
-	R_KILL_CONFIRM,
-	R_LAST_MINUTE,
-	R_GAME_OVER,
-	T_KILLED_BY,
-	N_DEFAULT_EMPTY
+	R_PLAYER_NAME,  //0
+	R_SELECTED_DMG, //1
+	R_PLAYER_ID,    //2
+	R_START_GAME,   //3
+	R_KILLED_BY,    //4
+	R_KILL_CONFIRM, //5
+	R_LAST_MINUTE,  //6
+	R_GAME_OVER,    //7
+	T_KILLED_BY,    //8
+	R_HP,           //9
+	T_REQ_PLAYERID, //10
+
+	N_DEFAULT_EMPTY	//11
 };
 
 class msg {
@@ -46,7 +49,7 @@ public:
 		int semicolon = basic_string.find(';');
 
 		command = static_cast<CMD>(basic_string[colon + 1] - '0');
-		if (command == R_PLAYER_NAME || command == R_KILLED_BY) {
+		if (command == R_PLAYER_NAME || command == R_KILLED_BY || command == R_KILL_CONFIRM) {
 			naam = basic_string.substr(comma + 1, semicolon-1);
 		} else {
 			waarde = static_cast<uint8_t>(basic_string[comma + 1] - '0');
@@ -57,7 +60,7 @@ public:
 		std::string out = "CMD:";
 		out += ((uint8_t) command + '0');
 		out += ",";
-		if (command == R_PLAYER_NAME || command == R_KILLED_BY) {
+		if (command == R_PLAYER_NAME || command == R_KILLED_BY || command == R_KILL_CONFIRM) {
 			out += naam;
 		} else {
 			out += (waarde + '0');
