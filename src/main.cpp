@@ -11,8 +11,8 @@
 #endif
 
 WiFiClient client;
-const char *SSID = "hotspot55";
-const char *pwd = "hotspot55";
+const char *SSID = "hotspot44";
+const char *pwd = "hotspot44";
 U8G2_SSD1306_128X32_UNIVISION_F_HW_I2C u8g2(U8G2_R0, /* reset=*/ 4, /* clock=*/ 14, /* data=*/ 2);
 SoftwareSerial due(12, 13, false, 256);
 enum CMD : uint8_t {
